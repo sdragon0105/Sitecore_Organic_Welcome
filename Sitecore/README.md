@@ -1,4 +1,4 @@
-# client
+# sitecore
 
 > A Vue.js project
 
